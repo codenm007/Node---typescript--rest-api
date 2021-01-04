@@ -1,13 +1,14 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A boilerplate application for rest api using typescript",
+  "main": "app.js",
+  "github":"https://github.com/codenm007/Node---typescript--rest-api.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev":"nodemon dist/app.js"
   },
-  "author": "",
+  "author": "Nilanjan Majumdar",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
